@@ -10,7 +10,7 @@ Hervepoh/Hervepoh is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-### Hi there, I'm [Hervé Epoh Ngando!](https://herveepoh.com) 👋
+### Hi there, I'm [Hervé Ngando!](https://herveepoh.com) 👋
 
 <a href="https://www.linkedin.com/in/hervepoh/">
   <img align="left" alt="Bleriot Noguia | Linkedin" width="20px" src="https://raw.githubusercontent.com/bleriotnoguia/bleriotnoguia/main/assets/img/linkedIn.png" />
