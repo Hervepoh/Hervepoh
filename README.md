@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
   Hi, I'm Hervé Ngando, a passionate self-taught ICT engineer , web developer and junior devops. 
 
   - 🔭 I’m currently working on [deliveroo clone](https://github.com/Hervepoh/deliveroo_clone)
-  - 🌱 I’m currently learning Python, React , Redux , Docker , Ansible , SAP
+  - 🌱 I’m currently learning React , Redux , Ansible , SAP HCM AND ISU , ABAP
   - 👯 I’m looking to collaborate on any interesting project
   - 💬 Ask me about anything [here](https://github.com/Hervepoh/Hervepoh/issues)
 
