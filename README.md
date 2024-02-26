@@ -13,13 +13,10 @@ You can click the Preview link to take a look at your changes.
 ### Hi there, I'm [Hervé Ngando!](https://herveepoh.com) 👋
 
 <a href="https://www.linkedin.com/in/hervepoh/">
-  <img align="left" alt="Bleriot Noguia | Linkedin" width="20px" src="https://raw.githubusercontent.com/bleriotnoguia/bleriotnoguia/main/assets/img/linkedIn.png" />
-</a>
-<a href="https://twitter.com/hervepoh">
-  <img align="left" alt=" @Hervepoh | Twitter" width="21px" src="https://raw.githubusercontent.com/bleriotnoguia/bleriotnoguia/master/assets/img/twitter.svg" />
+  hervepoh
 </a>
 <a href="https://t.me/hervepoh">
-  <img align="left" alt=" @Hervepoh | Telegram" width="21px" src="https://raw.githubusercontent.com/bleriotnoguia/bleriotnoguia/master/assets/img/telegram.png" />
+ @Hervepoh
 </a>
 
 <br />
