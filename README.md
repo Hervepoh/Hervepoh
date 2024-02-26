@@ -15,8 +15,6 @@ You can click the Preview link to take a look at your changes.
 Linkedin : <a href="https://www.linkedin.com/in/hervepoh/">
   hervepoh
 </a>
-
-<br />
 <br />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Hervepoh&show_icons=true&include_all_commits=true&theme=github_dark" alt="Hervepoh's github stats" />
 <div>
