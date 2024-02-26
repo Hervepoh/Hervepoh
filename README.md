@@ -12,11 +12,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Hi there, I'm [Hervé Ngando!](https://herveepoh.com) 👋
 
-<a href="https://www.linkedin.com/in/hervepoh/">
+Linkedin : <a href="https://www.linkedin.com/in/hervepoh/">
   hervepoh
-</a>
-<a href="https://t.me/hervepoh">
- @Hervepoh
 </a>
 
 <br />
