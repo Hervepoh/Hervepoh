@@ -2,9 +2,9 @@
 <!---
 - 👋 Hi, I’m @Hervepoh
 - 👀 I’m interested in devops
-- 🌱 I’m currently learning Redux
+- 🌱 I’m currently learning Nextjs and C# Foundational with Freeodecamp + Microsoft
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me epohherve63@gmail.com
 
 Hervepoh/Hervepoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -41,5 +41,5 @@ Linkedin : <a href="https://www.linkedin.com/in/hervepoh/">
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/oracle/oracle.png"></code>
+  <code><img height="50" src="https://icon.icepanel.io/Technology/svg/Oracle.svg"></code>
 </div>
