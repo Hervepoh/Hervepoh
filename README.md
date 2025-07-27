@@ -20,8 +20,8 @@ Linkedin : <a href="https://www.linkedin.com/in/hervepoh/">
 <div>
   Hi, I'm Hervé Ngando, a passionate self-taught ICT engineer , web developer and junior devops. 
 
-  - 🔭 I’m currently working on [deliveroo clone](https://github.com/Hervepoh/co)
-  - 🌱 I’m currently learning React , Redux , Ansible , SAP HCM AND ISU , ABAP
+  - 🔭 I’m currently working on a multi-vendor E-Commerce SaaS by using Microservice Architecture
+  - 🌱 I’m currently learning Kubernates, Ansible , SAP HCM AND ISU , ABAP
   - 👯 I’m looking to collaborate on any interesting project
   - 💬 Ask me about anything [here](https://github.com/Hervepoh/Hervepoh/issues)
 
