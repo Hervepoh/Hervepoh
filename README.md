@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Hi there, I'm [Hervé Ngando!](https://herveepoh.com) 👋
 
-** DevOps & Fullstack Software Engineer / Builder of high-performance, scalable, and sustainable web & mobile solutions ** 
+* DevOps & Fullstack Software Engineer / Builder of high-performance, scalable, and sustainable web & mobile solutions *
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://alex-dembele-portofolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hervepoh)
@@ -56,7 +56,22 @@ seeking: International opportunities
 </details>
 
 <details>
-<summary><strong>💻 Previous Roles</strong> <em>(2020 - 2022)</em></summary>
+<summary><strong>🏢 Senior Support Coordinator @ ENEO CAMEROON SA</strong> <em>(Aout 2019 - Present)</em></summary
+
+   - 🧭 **Led and coordinated cross-functional teams** (Support L2/L3, Developers, Infrastructure) for production systems
+- 🚀 **Owned production reliability**, incident management, and post-mortem processes
+- 🔄 **Designed and implemented DevOps workflows** for build, test, and deployment automation
+- ☸️ **Migrated legacy workloads to Kubernetes (AWS EKS)** using Terraform, Helm, and ArgoCD
+- ⚡ **Reduced deployment and recovery time by ~40%** through CI/CD automation
+- 💰 **Optimized cloud infrastructure costs (~15%)** via containerization and resource tuning
+- 🛡️ **Defined security and access policies** (IAM, secrets management, secure pipelines)
+- 📊 **Implemented monitoring & observability** using Prometheus and Grafana
+- 🧩 **Provided technical mentorship** to support engineers and developers
+- 🌍 **Collaborated with international vendors and remote teams**                                                                                                      
+</details>
+
+<details>
+<summary><strong>💻Support Coordinator/strong> <em>(2020 - 2022)</em></summary>
 
 **IT Intern @ COMETAL SA** *(Nov 2021 - Jan 2022)*
 - Administered Windows Server systems and managed backup strategies
