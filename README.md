@@ -19,14 +19,12 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Pro](https://img.shields.io/badge/GitHub_Pro-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hervepoh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hervepoh)
 
-<br />
 ## 🚀 Professional Summary
 
 DevOps & Fullstack Software Engineer with strong experience designing, deploying, and operating scalable, secure, and cloud-native systems.
 Proven ability to bridge development, infrastructure, and operations, delivering reliable solutions in complex enterprise environments.
 Passionate about automation, CI/CD, cloud platforms, and modern web architectures, with excellent collaboration and problem-solving skills.
 
-<br />
 ## 🚀 About Me 
 
 ```yaml
@@ -41,33 +39,33 @@ seeking: International opportunities
 ## 💼 Professional Experience
 
 <details>
-<summary><strong>🏢 Senior Support Coordinator @ ENEO CAMEROON SA</strong> <em>(Aout 2019 - Present)</em></summary>
+   <summary><strong>🏢 Senior Support Coordinator @ ENEO CAMEROON SA</strong> <em>(Aout 2019 - Present)</em></summary>
 
-**Key Achievements:**
-- 🔄 **Successfully migrated** AWS architecture to Kubernetes using EKS, Terraform, Helm, and ArgoCD
-- ⚡ **Reduced deployment times by 40%** through GitHub Actions CI/CD automation
-- 💰 **Cut infrastucture costs by 15%** via Docker & Kubernetes containerization
-- 🛡️ **Enhanced security posture** with IAM policies, security code, and comprehensive monitoring
-- 📊 **Implemented observability** with Prometheus monitoring stack.
-- 
+   **Key Achievements:**
+   - 🧭 **Lead and coordinated cross-functional teams** (Support L2/L3, Developers, Infrastructure) for production systems
+   - 🚀 **Owned production reliability**, incident management, and post-mortem processes
+   - 🌍 **Collaborated with international vendors and remote teams**  
+   - 🧩 **Provided technical mentorship** to support engineers and developers
+   - ⚡ **Reduced deployment times by 40%** through Gitlab CI and GitHub Actions CI/CD automation
+   - 💰 **Cut infrastucture costs by 15%** via Docker & Kubernetes containerization
+   - 🛡️ **Enhanced security posture** with IAM policies, security code, and comprehensive monitoring
+   - 📊 **Implemented observability** with Prometheus monitoring stack.
 
-**Technologies:**  Kubernetes, Docker, Terraform, Gitlab CI, GitHub Actions
-
+**Technologies:** SAP S4HANA , META4 PeopleNet,  Kubernetes, Docker, Terraform, Gitlab CI, GitHub Actions
 </details>
 
 <details>
-<summary><strong>🏢 Senior Support Coordinator @ ENEO CAMEROON SA</strong> <em>(Aout 2019 - Present)</em></summary
+<summary><strong>🏢 Software engineer @ ENEO CAMEROON SA</strong> <em>(Aout 2019 - Dec 2023)</em></summary
 
-   - 🧭 **Led and coordinated cross-functional teams** (Support L2/L3, Developers, Infrastructure) for production systems
-- 🚀 **Owned production reliability**, incident management, and post-mortem processes
-- 🔄 **Designed and implemented DevOps workflows** for build, test, and deployment automation
-- ☸️ **Migrated legacy workloads to Kubernetes (AWS EKS)** using Terraform, Helm, and ArgoCD
-- ⚡ **Reduced deployment and recovery time by ~40%** through CI/CD automation
-- 💰 **Optimized cloud infrastructure costs (~15%)** via containerization and resource tuning
-- 🛡️ **Defined security and access policies** (IAM, secrets management, secure pipelines)
-- 📊 **Implemented monitoring & observability** using Prometheus and Grafana
-- 🧩 **Provided technical mentorship** to support engineers and developers
-- 🌍 **Collaborated with international vendors and remote teams**                                                                                                      
+  **Role Summary:**
+Software Engineer with strong responsibilities in **system design, backend development, and DevOps**, acting as **technical lead** and **coordination point between development and support teams** for mission-critical enterprise platforms.
+
+ **Key Contributions & Impact:**
+- 🏗️ **Designed and developed backend services and APIs** using Node.js, PHP, and Python
+- ☸️ **Migrated and operated production systems** on Docker/Kubernetes
+- 🔄 **Implemented CI/CD pipelines** with GitHub Actions and GitLab CI
+- 🛡️ **Applied security best practices** (IAM, secrets management, secure pipelines)
+- 🧩 **Provided technical leadership and mentorship** to junior engineers and support L1 staff                                                                                                 
 </details>
 
 <details>
