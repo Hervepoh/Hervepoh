@@ -98,10 +98,8 @@ seeking: International opportunities
     <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
     
    <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png"></code> 
-   
-   
   
-  
+   Server-side:
   <code><img height="50" src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png"></code>
    <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
@@ -109,9 +107,11 @@ seeking: International opportunities
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/symfony/symfony.png"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
   <code><img height="50" src="https://icon.icepanel.io/Technology/svg/Sanity.svg"></code>
-   
+
    <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
    <code><img height="50" src="https://icon.icepanel.io/Technology/svg/Docker.svg"></code>
+   
+     Database :
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
   <code><img height="50" src="https://icon.icepanel.io/Technology/svg/Oracle.svg"></code>
