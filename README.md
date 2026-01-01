@@ -13,13 +13,18 @@ You can click the Preview link to take a look at your changes.
 ### Hi there, I'm [Hervé Ngando!](https://herveepoh.com) 👋
 
 ** DevOps & Fullstack Software Engineer / Builder of high-performance, scalable, and sustainable web & mobile solutions ** 
-** Based in Douala, Cameroon | 🎯 Open to any opportunity because I am a passionate**
-📧 **epohherve63@gmail.com** | 📱 **+237 691 53 40 44**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://alex-dembele-portofolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hervepoh)
 [![GitHub Pro](https://img.shields.io/badge/GitHub_Pro-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hervepoh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hervepoh)
+
+<br />
+## 🚀 Professional Summary
+
+DevOps & Fullstack Software Engineer with strong experience designing, deploying, and operating scalable, secure, and cloud-native systems.
+Proven ability to bridge development, infrastructure, and operations, delivering reliable solutions in complex enterprise environments.
+Passionate about automation, CI/CD, cloud platforms, and modern web architectures, with excellent collaboration and problem-solving skills.
 
 <br />
 ## 🚀 About Me 
@@ -33,32 +38,20 @@ location: Douala, Cameroon
 seeking: International opportunities
 ```
 
-
-<br />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Hervepoh&show_icons=true&include_all_commits=true&theme=github_dark" alt="Hervepoh's github stats" />
-<div>
-  Hi, I'm Hervé Ngando, a passionate self-taught ICT engineer , web developer and junior devops. 
-
-  - 🔭 I’m currently working on a multi-vendor E-Commerce SaaS by using Microservice Architecture
-  - 🌱 I’m currently learning Kubernates, Ansible , SAP HCM AND ISU , ABAP
-  - 👯 I’m looking to collaborate on any interesting project
-  - 💬 Ask me about anything [here](https://github.com/Hervepoh/Hervepoh/issues)
-
----
-
 ## 💼 Professional Experience
 
 <details>
-<summary><strong>🏢 System Administrator @ NEXAH SARL</strong> <em>(April 2023 - Present)</em></summary>
+<summary><strong>🏢 Senior Support Coordinator @ ENEO CAMEROON SA</strong> <em>(Aout 2019 - Present)</em></summary>
 
 **Key Achievements:**
 - 🔄 **Successfully migrated** AWS architecture to Kubernetes using EKS, Terraform, Helm, and ArgoCD
 - ⚡ **Reduced deployment times by 40%** through GitHub Actions CI/CD automation
-- 💰 **Cut cloud costs by 15%** via Docker & Kubernetes containerization
-- 🛡️ **Enhanced security posture** with IAM policies, IPSec VPN, and comprehensive monitoring
-- 📊 **Implemented observability** with Prometheus monitoring stack. 
+- 💰 **Cut infrastucture costs by 15%** via Docker & Kubernetes containerization
+- 🛡️ **Enhanced security posture** with IAM policies, security code, and comprehensive monitoring
+- 📊 **Implemented observability** with Prometheus monitoring stack.
+- 
 
-**Technologies:** AWS (EC2, S3, IAM, VPC, RDS), Kubernetes, Docker, Terraform, Helm, ArgoCD, GitHub Actions
+**Technologies:**  Kubernetes, Docker, Terraform, Gitlab CI, GitHub Actions
 
 </details>
 
@@ -76,18 +69,24 @@ seeking: International opportunities
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Core Technical Skills
 
- ###  Programming languages and Tools
+ ###  Web & Backend Development
+
+ Client-side:
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
    <code><img height="50" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg"></code>
    <code><img height="50" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+    <code><img height="50" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg"></code>
+    <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+    
    <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png"></code> 
    
-   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-   <code><img height="50" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+   
+  
+  
   <code><img height="50" src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png"></code>
    <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
@@ -241,8 +240,6 @@ seeking: International opportunities
 ---
 
 ## 🤝 Let's Connect!
-
-<div align="center">
 
 I'm always excited to collaborate on innovative projects and discuss the latest in cloud technologies and cybersecurity!!!
 
