@@ -87,33 +87,34 @@ Software Engineer with strong responsibilities in **system design, backend devel
  ###  Web & Backend Development
 
  Client-side:
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-   <code><img height="50" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg"></code>
-   <code><img height="50" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+    <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+    <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+    <code><img height="50" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg"></code>
+    <code><img height="50" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg"></code>
+    <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
     <code><img height="50" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg"></code>
     <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-    
-   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png"></code> 
   
    Server-side:
-  <code><img height="50" src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png"></code>
-   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-    <code><img height="50" src="https://icon.icepanel.io/Technology/svg/CodeIgniter.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/symfony/symfony.png"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
-  <code><img height="50" src="https://icon.icepanel.io/Technology/svg/Sanity.svg"></code>
-
-   <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-   <code><img height="50" src="https://icon.icepanel.io/Technology/svg/Docker.svg"></code>
+     <code><img height="50" src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png"></code>
+     <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+     <code><img height="50" src="https://icon.icepanel.io/Technology/svg/TypeScript.svg"></code>
+     <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+     <code><img height="50" src="https://icon.icepanel.io/Technology/svg/CodeIgniter.svg"></code>
+     <code><img height="50" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/symfony/symfony.png"></code>
+     <code><img height="50" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
+     <code><img height="50" src="https://icon.icepanel.io/Technology/svg/Sanity.svg"></code>
+     <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+     <code><img height="50" src="https://icon.icepanel.io/Technology/svg/Docker.svg"></code>
    
-     Database :
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-  <code><img height="50" src="https://icon.icepanel.io/Technology/svg/Oracle.svg"></code>
-  <code><img height="50" src="https://icon.icepanel.io/Technology/svg/DuckDB.svg"></code>
+   UX/UI:
+      <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png"></code> 
+      
+   Database:
+     <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+     <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+     <code><img height="50" src="https://icon.icepanel.io/Technology/svg/Oracle.svg"></code>
+     <code><img height="50" src="https://icon.icepanel.io/Technology/svg/DuckDB.svg"></code>
 
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
